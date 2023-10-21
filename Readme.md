@@ -19,9 +19,9 @@ The Unit Converter App is a simple graphical user interface (GUI) application bu
 
 2. Open a terminal or command prompt.
 
-3. Clone this repository or copy the code from the provided `main.py` file.
+3. Clone this repository or copy the code from the provided `Unit-Converter-App.py` file.
 
-4. Navigate to the directory where the `main.py` file is located.
+4. Navigate to the directory where the `Unit-Converter-App.py` file is located.
 
 5. Run the following command to start the Unit Converter App:
 
