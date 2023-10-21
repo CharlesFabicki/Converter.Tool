@@ -2,6 +2,9 @@
 
 The Unit Converter App is a simple graphical user interface (GUI) application built using the tkinter library in Python. It allows you to convert various units such as kilometers to miles, pounds to kilograms, Fahrenheit to Celsius, and more.
 
+## Screenshot
+![Converter tool](https://github.com/CharlesFabicki/Converter.Tool/assets/103677730/aadd5920-936e-4660-a395-762486fb1ddb)
+
 ## Features
 
 - User-friendly interface for converting units.
