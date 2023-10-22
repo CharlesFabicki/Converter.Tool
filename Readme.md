@@ -27,7 +27,9 @@ The Unit Converter App is a simple graphical user interface (GUI) application bu
 4. Navigate to the directory where the `Unit-Converter-App.py` file is located.
 
 5. Run the following command to start the Unit Converter App:
-
+```
+python Unit-Converter-App.py
+```
 6. The app window will appear with a selection of conversion options.
 
 7. Enter a value in the input field, choose a conversion type, and click the "Calculate" button to see the converted value.
